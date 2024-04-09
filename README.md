@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Kokushibou-27
+- 👀 I’m interested in Cybersecurity, researching (random stuff)
+- 🌱 I’m currently learning to become a Cybersecurity professional (maybe a CEH)
+- 💞️ I’m looking to collaborate on any type of project (I'm looking for experience)
+- 📫 Contact me by leaving random commits on my Pycharm folder
+- 😄 Pronouns: Don't believe in this bullcrap
+- ⚡ Fun fact: I became interested in Cybersecurity because I got hacked.
